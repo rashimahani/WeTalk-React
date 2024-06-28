@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rashimahani/WeTalk-react.git/static/css/main.88d1c5a3.css",
+    "main.js": "/rashimahani/WeTalk-react.git/static/js/main.3a1d94a8.js",
+    "index.html": "/rashimahani/WeTalk-react.git/index.html",
+    "main.88d1c5a3.css.map": "/rashimahani/WeTalk-react.git/static/css/main.88d1c5a3.css.map",
+    "main.3a1d94a8.js.map": "/rashimahani/WeTalk-react.git/static/js/main.3a1d94a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88d1c5a3.css",
+    "static/js/main.3a1d94a8.js"
+  ]
+}
